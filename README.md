@@ -16,8 +16,10 @@ It is a number guessing game Written in python and GUI is created from
 * Python v3 installed
 
 ## How To Use
+* Intall requirements by executing following command 
+'pip install -r requirements.txt'
 * Open cmd in a Project folder by writing "cmd" in address bar and hit Enter.
-* Type "python todo.py" and hit enter
+* Type "python main.py" and hit enter
 * Program will sucessfully run
 
 ![Sample1](https://user-images.githubusercontent.com/32637886/103736197-c97ed580-5015-11eb-96b7-8fa4f0f21196.PNG)
